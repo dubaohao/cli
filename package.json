@@ -1,0 +1,22 @@
+{
+  "name": "@dbh/cli",
+  "version": "0.0.1",
+  "description": "cli集合",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubaohao/cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "dubaohao24@126.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dubaohao/cli/issues"
+  },
+  "homepage": "https://github.com/dubaohao/cli#readme"
+}
